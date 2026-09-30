@@ -1,0 +1,7 @@
+{
+  "name": "TeleReply - Telegram Bot Auto-Reply Chat Manager",
+  "description": "Configure intelligent auto-replies, keyword triggers, business hours, and Gemini AI customer support responses for your Telegram Bot with a live web simulator and webhook manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
